@@ -1,0 +1,19 @@
+{
+    "name": "A&S Hub",
+    "short_name": "A&S",
+    "description": "PWA POS system",
+    "start_url": "/a-s2/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "/a-s2/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/a-s2/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
